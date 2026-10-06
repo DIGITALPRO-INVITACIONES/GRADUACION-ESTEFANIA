@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Estefani//ES
+BEGIN:VEVENT
+UID:estefani-recepcion-20261016@digitalpro
+DTSTAMP:20261006T030000Z
+DTSTART:20261016T200000Z
+SUMMARY:Cena de graduación de Estefani
+LOCATION:Restaurante La Esclava - Cochabamba
+DESCRIPTION:Recepción después de la ceremonia.
+URL:https://maps.app.goo.gl/NMVwmubhzWETcKiG6
+END:VEVENT
+END:VCALENDAR
